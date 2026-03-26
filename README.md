@@ -34,6 +34,17 @@ We offer two easy ways to use our platform:
 
 ---
 
+## 📱 App Screenshots
+
+<div align="center">
+  <img src="docs/Routine.png" width="200" alt="Exam Routine" style="border-radius: 10px; margin: 10px;" />
+  <img src="docs/Booklist.png" width="200" alt="Booklist" style="border-radius: 10px; margin: 10px;" />
+  <img src="docs/Results.png" width="200" alt="Exam Results" style="border-radius: 10px; margin: 10px;" />
+  <img src="docs/Me.png" width="200" alt="User Profile" style="border-radius: 10px; margin: 10px;" />
+</div>
+
+---
+
 ## 🚀 How to Download the Android App
 
 You can safely download the officially released **BTEB Flow** Android app right here from this repository.
